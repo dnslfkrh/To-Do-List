@@ -1,6 +1,5 @@
 # To Do List
-### project period
-2024. 01.
+### 2024. 01.
 
 # Directory Tree
 ```
