@@ -1,5 +1,5 @@
 # To Do List
-### 2024. 01. (2W)
+### 2024. 01.
 
 # Directory Tree
 ```
