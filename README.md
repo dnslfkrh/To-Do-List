@@ -1,6 +1,13 @@
 # To Do List
 ### 2024. 01.
-Personal To Do List Web Program
+To Do List Web Program
+
+### FE
+HTML, CSS, JavaScript
+### BE
+Node.js, express
+### DB
+MongoDB
 
 # Directory Tree
 ```
