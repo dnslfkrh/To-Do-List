@@ -2,11 +2,11 @@
 ### 2024. 01.
 To Do List Web Program
 
-### FE
+### Frontend
 HTML, CSS, JavaScript
-### BE
+### Backend
 Node.js, express
-### DB
+### Database
 MongoDB
 
 # Directory Tree
