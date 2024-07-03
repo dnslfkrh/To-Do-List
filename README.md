@@ -1,6 +1,6 @@
 # To Do List
 ### 2024. 01.
-To Do List Web Program
+To Do List Web Project
 
 ### Frontend
 HTML, CSS, JavaScript
