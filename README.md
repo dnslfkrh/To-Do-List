@@ -10,7 +10,7 @@ Node.js, express
 MongoDB
 
 ## Testing Video (youtube)
-[![Video Label](http://img.youtube.com/vi/LK_oBpHwrjE/0.jpg)](https://youtu.be/LK_oBpHwrjE)
+<!--[![Video Label](http://img.youtube.com/vi/LK_oBpHwrjE/0.jpg)](https://youtu.be/LK_oBpHwrjE)-->
 
 ## Directory Tree
 ```
