@@ -9,6 +9,9 @@ Node.js, express
 ### Database
 MongoDB
 
+# Testing Video (youtube)
+[![Video Label](http://img.youtube.com/vi/Bs_LhABboCw/0.jpg)](https://youtu.be/Bs_LhABboCw)
+
 # Directory Tree
 ```
 todoList
