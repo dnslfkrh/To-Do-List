@@ -9,8 +9,10 @@ Node.js, express
 ### Database
 MongoDB
 
-<!--## Testing Video (youtube)-->
-<!--[![Video Label](http://img.youtube.com/vi/LK_oBpHwrjE/0.jpg)](https://youtu.be/LK_oBpHwrjE)-->
+### Testing Video
+```
+https://youtu.be/LK_oBpHwrjE?si=D-PqzDrjETqftxlm
+```
 
 ## Directory Tree
 ```
